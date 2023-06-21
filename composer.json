@@ -1,0 +1,17 @@
+{
+    "name": "jamaicanfriedchicken/inspire",
+    "autoload": {
+        "psr-4": {
+            "JamaicanFriedChicken\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JamaicanFriedChicken",
+            "email": "mikey_lue777@hotmail.com"
+        }
+    ],
+    "require": {
+         "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
